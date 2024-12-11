@@ -15,3 +15,7 @@ c=8/2
 #percentage
 
 k=100%
+
+
+#algorith
+k=12
