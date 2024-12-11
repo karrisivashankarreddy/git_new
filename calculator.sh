@@ -19,3 +19,5 @@ k=100%
 
 #algorith
 k=12
+
+#completed
