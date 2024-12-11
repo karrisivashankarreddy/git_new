@@ -11,3 +11,7 @@ y=1+3
 
 #division
 c=8/2
+
+#percentage
+
+k=100%
